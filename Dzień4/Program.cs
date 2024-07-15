@@ -1,7 +1,7 @@
-﻿var name = "Adam";
-bool sex = false;
+﻿var name = "Ewa";
+bool sex = true;
 // mężczyzna - false, kobieta - true
-var age = 15;
+var age = 35;
 if (sex == true)
 {
     if (age < 30)
